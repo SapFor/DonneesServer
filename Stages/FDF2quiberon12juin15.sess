@@ -1,5 +1,6 @@
 uv
 FDF2
+modif
 date
 12
 6
@@ -9,24 +10,22 @@ finCandidature
 5
 2015
 lieu
-quibron
+Quiberon
 
 infos
-infos concernant le lieu du stage, le materiel necessaire, la duree du stage , etc ...
+Stage le 6 juin 2015, dans la salle municipale de Quiberon
+Durée : un weekend
 finfos
 
 candidats
+2
 fcandidats
-
 
 accepte
 faccepte
-
 
 attente
 fattente
 
 refuse
 frefuse
-
-
